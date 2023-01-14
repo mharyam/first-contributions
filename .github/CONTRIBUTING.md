@@ -144,6 +144,9 @@ If you're making changes to a translation, please request a review from our prev
             <a href="https://github.com/tranlyvu">tranlyvu</a>
         </td>
         <td>
+            <a href="https://github.com/ki3ani">ki3ani</a>
+        <td>
+        <td>
             <a href="https://github.com/P1X3L0V4">P1X3L0V4</a>
         </td>
         <td>
